@@ -1,0 +1,21 @@
+[
+    {
+    "SEARCHFIELD_CD": "EMP_ID",
+    "SEARCHFIELD_NM" : "사번"
+}, {
+    "SEARCHFIELD_CD": "EMP_NM_KOR",
+    "SEARCHFIELD_NM" : "성명"
+}, {
+    "SEARCHFIELD_CD": "ORG_CD_AF_NM",
+    "SEARCHFIELD_NM" : "부서명"
+}, {
+    "SEARCHFIELD_CD": "DUTY_CD_AF_NM",
+    "SEARCHFIELD_NM" : "직책명"
+}, {
+    "SEARCHFIELD_CD": "POS_CD_AF_NM",
+    "SEARCHFIELD_NM" : "직위명"
+}, {
+    "SEARCHFIELD_CD": "JOB_CD_AF_NM",
+    "SEARCHFIELD_NM" : "직무명"
+}
+]

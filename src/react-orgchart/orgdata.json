@@ -1,0 +1,29 @@
+[{
+    "DEPT_CD" : "D01",
+    "DEPT_NM" : "티맥스그룹"
+    
+
+},{
+    "DEPT_CD" : "D02",
+    "DEPT_NM" : "티맥스소프트",
+    "PARENT_CD" : "D01"
+    
+
+},{
+    "DEPT_CD" : "D03",
+    "DEPT_NM" : "티맥스데이터",
+    "PARENT_CD" : "D01"
+    
+
+},{
+    "DEPT_CD" : "D04",
+    "DEPT_NM" : "AB1실",
+    "PARENT_CD" : "D03"
+    
+
+},{
+    "DEPT_CD" : "D05",
+    "DEPT_NM" : "AB1-1팀",
+    "PARENT_CD" : "D04"   
+
+}]

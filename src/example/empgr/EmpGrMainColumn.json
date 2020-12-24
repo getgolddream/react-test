@@ -1,0 +1,31 @@
+[
+    {
+      "title": "사번",
+      "dataIndex": "EMP_ID"
+    },
+    {
+      "title": "성명",
+      "dataIndex": "EMP_NM_KOR"
+    },
+    {
+      "title": "조직",
+      "dataIndex": "ORG_CD_AF_NM"
+    },
+    {
+      "title": "직위",
+      "dataIndex": "POS_CD_AF_NM"
+    },
+    {
+      "title": "직무",
+      "dataIndex": "JOB_CD_AF_NM"
+    },
+    {
+      "title": "직책",
+      "dataIndex": "DUTY_CD_AF_NM"
+    },
+    {
+      "title": "재직상태",
+      "dataIndex": "DISPATCH_WORKSTATUS_AF_NM"
+    }
+    
+  ]

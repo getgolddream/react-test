@@ -1,0 +1,30 @@
+[
+    {
+      "title": "발령id",
+      "dataIndex": "DISPATCH_ID"
+    },
+    {
+      "title": "발령제목",
+      "dataIndex": "DISPATCH_SUBJECT"
+    },
+    {
+      "title": "발령구분",
+      "dataIndex": "DISPATCH_KIND_NM"
+    },
+    {
+      "title": "승인상태",
+      "dataIndex": "DISPATCH_APPR_STATUS_NM"
+    },
+    {
+      "title": "발령시작일",
+      "dataIndex": "DISPATCH_STDT"
+    },
+    {
+      "title": "발령인원",
+      "dataIndex": "DISPATCH_COUNT"
+    },
+    {
+      "title": "작성자",
+      "dataIndex": "MODIFIER_NM"
+    }
+  ]

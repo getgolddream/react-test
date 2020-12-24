@@ -1,0 +1,31 @@
+    [{
+      "title": "개인정보",
+      "children": [
+        {
+          "title": "사번",
+          "dataIndex": "EMP_ID"
+        },
+        {
+          "title": "성명",
+          "dataIndex": "EMP_NM_KOR"
+        },
+        {
+          "title": "부서",
+          "dataIndex": "ORG_CD_BF_NM"
+        },
+        {
+          "title": "직책",
+          "dataIndex": "DUTY_CD_BF_NM"
+        },
+        {
+          "title": "직무",
+          "dataIndex": "JOB_CD_BF_NM"
+        },
+        {
+          "title": "직위",
+          "dataIndex": "POS_CD_BF_NM"
+        }
+        
+      ]
+    },
+    { "title": "발령정보", "children": [] }]
